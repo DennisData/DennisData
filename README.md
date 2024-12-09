@@ -31,13 +31,13 @@ and information systems using machine learning (Predictive analytics), developme
 extracting additional knowledge from data for business
 
 ## 👨‍💻 Education
-- 📆 2017 - 2021
 - Peoples Friendship University of Russia (RUDN), Moscow
-- Bachelor "Applied Informatics"
+Bachelor "**Applied Informatics**"
+📆 2017 - 2021
 
-- 📆 2024 - present (_plan 2026_)
 - National Research University “Higher School of Economics” (HSE), Moscow
-- Master “Data Engineering"
+Master “**Data Engineering**"
+📆 2024 - present (_plan 2026_)
 
 <!--
 **DennisData/DennisData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
