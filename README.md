@@ -42,6 +42,10 @@ extracting additional knowledge from data for business\
 📘 Master “**Data Engineering**"\
 📆 2024 - present (_plan 2026_)
 
+### 📑 My Projects
+All interesting projects was created for client and code under NDA.\
+If you want know something, please, contact me with [![Telegram][2.1]][1].
+
 <!--
 **DennisData/DennisData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
