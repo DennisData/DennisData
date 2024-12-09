@@ -15,10 +15,11 @@
 ![](https://img.shields.io/badge/Tools-Greenplum-informational?style=flat&logo=greenplum&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ETL-informational?style=flat&logo=etl&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=airflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)\
-![](https://img.shields.io/badge/Soft_Skills-Any_You_Want-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Soft_Skills-Any_You_Want-informational?style=flat&logoColor=white&color=2bbc8a)\
 and others
 
 
