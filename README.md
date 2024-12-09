@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- icons with padding -->
 
 [1.1]: https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png
-[2.1]: https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png
+[2.1]: https://img.icons8.com/?size=100&id=63306&format=png&color=000000
 
 
 
