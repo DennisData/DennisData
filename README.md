@@ -22,13 +22,23 @@ and others
 
 ## 👨‍💻 Working experience
 - 📆 june 2019 - november 2024
-- JSC "KROK Incorporated"
+- JSC "CROC Incorporated", Moscow, Russia
 - Main roles - **Data Engineer and Analyst**
 - **TO DO**: Projects in large railway companies in Russia with the aim of increasing business efficiency
 - **IN PROGRESS**: Creation, development and support of data warehouses (based on Greenplum)
 and information systems using machine learning (Predictive analytics), development of business processes, business support
 - **DONE**: automation and optimization of many business processes, increasing labor efficiency,
 extracting additional knowledge from data for business
+
+## 👨‍💻 Education
+- 📆 2017 - 2021
+- Peoples Friendship University of Russia (RUDN), Moscow
+- Bachelor "Applied Informatics"
+
+- 📆 2024 - present (_plan 2026_)
+- National Research University “Higher School of Economics” (HSE), Moscow
+- Master “Data Engineering"
+
 <!--
 **DennisData/DennisData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
