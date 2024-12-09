@@ -31,7 +31,7 @@ and others
 **IN PROGRESS**: Creation, development and support of data warehouses (based on Greenplum)
 and information systems using machine learning (Predictive analytics), development of business processes, business support\
 **DONE**: automation and optimization of many business processes, increasing labor efficiency,
-extracting additional knowledge from data for business\
+extracting additional knowledge from data for business
 
 ### 📚 Education
 - 🎓 Peoples Friendship University of Russia (RUDN), Moscow\
