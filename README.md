@@ -1,8 +1,7 @@
-# Hi 👋
+## Hi 👋
 
-## About me: My name is Denis Kravets. I'm Data Engineer from Moscow.
-5+ commercial experience in Data sphere (Data Science, Analysis, Engineering). You can find me on [![Telegram][2.1]][1]. 
-## Rigth now, I'm looking for a job, if you are intersted, [[here]][2] you can find other contacts and CV on russian.
+### About me: My name is Denis Kravets. I'm Data Engineer from Moscow. 5+ commercial experience in Data sphere (Data Science, Analysis, Engineering). You can find me on [![Telegram][2.1]][1]. 
+### Rigth now, I'm looking for a job, if you are intersted, [[here]][2] you can find other contacts and CV on russian.
 
 
 
