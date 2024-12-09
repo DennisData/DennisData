@@ -4,6 +4,7 @@
 - My name is Denis Kravets.
 - I'm Data Engineer from Moscow.
 - 5+ commercial experience in Data sphere (Data Science, Analysis, Engineering).
+- Small investor, can build a house, love traveling and memes.
 - You can find me on [![Telegram][2.1]][1].
  
 🔍 Rigth now, **I'm looking for a job**, if you are intersted, [here][2] you can find other contacts and CV on russian.
@@ -30,13 +31,13 @@ and information systems using machine learning (Predictive analytics), developme
 **DONE**: automation and optimization of many business processes, increasing labor efficiency,
 extracting additional knowledge from data for business\
 
-### 👨‍💻 Education
-- Peoples Friendship University of Russia (RUDN), Moscow\
-Bachelor "**Applied Informatics**"\
+### 📚 Education
+- 🎓 Peoples Friendship University of Russia (RUDN), Moscow\
+📕 Bachelor "**Applied Informatics**"\
 📆 2017 - 2021
 
-- National Research University “Higher School of Economics” (HSE), Moscow\
-Master “**Data Engineering**"\
+- 🎓 National Research University “Higher School of Economics” (HSE), Moscow\
+📘 Master “**Data Engineering**"\
 📆 2024 - present (_plan 2026_)
 
 <!--
@@ -59,9 +60,6 @@ Here are some ideas to get you started:
 
 [1.1]: https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png
 [2.1]: https://i.imgur.com/Fbrr5co.png
-
-
-
 
 <!-- links to your social media accounts -->
 
