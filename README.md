@@ -3,7 +3,7 @@
 ### 🔭 About me: 
 - My name is Denis Kravets.
 - I'm Data Engineer from Moscow.
-- 5+ commercial experience in Data sphere (Data Science, Analysis, Engineering).
+- 5+ years commercial experience in Data sphere (Data Science, Analysis, Engineering).
 - Small investor, can build a house, love traveling and memes.
 - You can find me on [![Telegram][2.1]][1].
  
