@@ -33,11 +33,11 @@ extracting additional knowledge from data for business\
 ## 👨‍💻 Education
 - Peoples Friendship University of Russia (RUDN), Moscow\
 Bachelor "**Applied Informatics**"\
-📆 2017 - 2021\
+📆 2017 - 2021
 
 - National Research University “Higher School of Economics” (HSE), Moscow\
 Master “**Data Engineering**"\
-📆 2024 - present (_plan 2026_)\
+📆 2024 - present (_plan 2026_)
 
 <!--
 **DennisData/DennisData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
