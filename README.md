@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello 👋
 
 ### 🔭 About me: 
 - My name is Denis Kravets.
