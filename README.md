@@ -43,7 +43,7 @@ extracting additional knowledge from data for business\
 📆 2024 - present (_plan 2026_)
 
 ### 📑 My Projects
-All interesting projects was created for client and code under NDA.\
+- All interesting projects was created for clients and code under NDA.\
 If you want know something, please, contact me with [![Telegram][2.1]][1].
 
 <!--
