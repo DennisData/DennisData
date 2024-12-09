@@ -1,4 +1,4 @@
-## Hi 👋
+### Hi 👋
 
 ### 🔭 About me: 
 - My name is Denis Kravets.
@@ -8,7 +8,7 @@
  
 🔍 Rigth now, **I'm looking for a job**, if you are intersted, [here][2] you can find other contacts and CV on russian.
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Greenplum-informational?style=flat&logo=greenplum&logoColor=white&color=2bbc8a)
@@ -16,11 +16,11 @@
 ![](https://img.shields.io/badge/Tools-ETL-informational?style=flat&logo=etl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)\
 and others
 
 
-## 👨‍💻 Working experience
+### 👨‍💻 Working experience
 - 📆 june 2019 - november 2024
 - JSC "CROC Incorporated", Moscow, Russia
 - Main roles - **Data Engineer and Analyst**\
@@ -30,7 +30,7 @@ and information systems using machine learning (Predictive analytics), developme
 **DONE**: automation and optimization of many business processes, increasing labor efficiency,
 extracting additional knowledge from data for business\
 
-## 👨‍💻 Education
+### 👨‍💻 Education
 - Peoples Friendship University of Russia (RUDN), Moscow\
 Bachelor "**Applied Informatics**"\
 📆 2017 - 2021
