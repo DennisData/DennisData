@@ -5,7 +5,7 @@
 - I'm Data Engineer from Moscow.
 - 5+ commercial experience in Data sphere (Data Science, Analysis, Engineering).
 - You can find me on [![Telegram][2.1]][1].
--  
+ 
 🔍 Rigth now, **I'm looking for a job**, if you are intersted, [here][2] you can find other contacts and CV on russian.
 
 ## 🔧 Technologies & Tools
@@ -21,9 +21,9 @@ and others
 
 
 ## 👨‍💻 Working experience
-📆 june 2019 - november 2024
-JSC "KROK Incorporated"
-Main roles - **Data Engineer and Analyst**
+- 📆 june 2019 - november 2024
+- JSC "KROK Incorporated"
+- Main roles - **Data Engineer and Analyst**
 - **TO DO**: Projects in large railway companies in Russia with the aim of increasing business efficiency
 - **IN PROGRESS**: Creation, development and support of data warehouses (based on Greenplum)
 and information systems using machine learning (Predictive analytics), development of business processes, business support
