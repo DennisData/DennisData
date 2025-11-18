@@ -3,7 +3,7 @@
 ### 🔭 About me: 
 - My name is Denis Kravets.
 - I'm Data Engineer from Moscow.
-- 5+ years commercial experience in Data sphere (Data Science, Analysis, Engineering).
+- 6+ years commercial experience in Data sphere (Data Science, Analysis, Engineering).
 - Small investor, can build a house, love traveling and memes.
 - You can find me on [![Telegram][2.1]][1].
  
@@ -32,6 +32,11 @@ and others
 and information systems using machine learning (Predictive analytics), development of business processes, business support\
 **DONE**: automation and optimization of many business processes, increasing labor efficiency,
 extracting additional knowledge from data for business
+
+### 👨‍💻 Working experience
+- 📆 january 2025 - now
+- JSC "Jet Infosystems", Moscow, Russia
+- Main roles - **Data Engineer and Analyst**\
 
 ### 📚 Education
 - 🎓 Peoples Friendship University of Russia (RUDN), Moscow\
